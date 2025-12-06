@@ -5,7 +5,7 @@
   
 </div>
 <p>
-Welcome to my digital workbench! I'm a second-year Computer Science student, and I'm excited to document my journey here. I have a lot to learn, but I'm passionate about building, creating, and solving problems.
+Welcome! I'm a second-year Computer Science student, and I'm excited to document my journey here. I have a lot to learn, but I'm passionate about fix, building, and solving problems.
 <hr></hr></p>
 
 ### 🌱 What I'm Currently Learning
@@ -23,14 +23,13 @@ I believe a great setup inspires great work. I've spent a lot of time crafting m
 * **OS:** `Arch Linux + Hyperland `
 * **Code Editor:** `Intellij && Nvim`
 * **Main Hardware:** `AlienWare m15 R4`
-* **Peripherals:** `Keyboard: Logitech MX Mechanical Mini, Mouse: Logitech MX Master 3S, Monitor: Samsung Odyssey G5`
 * **Productivity:** `Youtrack for notes and keep track of projects and courses`
 
 ### 🎯 My Goals for this Year
 
-* 🧠 Get a solid grasp on Data Structures and Algorithms.
+* 🧠 Get a solid understanding on Data Structures and Algorithms.
 * 🚀 Build and deploy my first full-stack web application.
-* 🤝 Contribute to my first open-source project.
+* 🤝 Contribute to open-source project, and tech community.
 
 <!-- <div align="center"> -->
 <div style="text-align: center;" align="center" position="top: 100;">

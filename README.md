@@ -5,7 +5,7 @@
   
 </div>
 <p>
-Welcome! I'm a second-year Computer Science student, and I'm excited to document my journey here. I have a lot to learn, but I'm passionate about fix, building, and solving problems.
+Welcome! I'm a third-year Computer Science student, and I'm excited to document my journey here. I have a lot to learn, but I'm passionate about fix, building, and solving problems.
 <hr></hr></p>
 
 
